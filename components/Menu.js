@@ -33,18 +33,18 @@ const Menu = () => {
                 </ul>
                 <ul className="navbar-nav list-inline mr-4">
                     <li className="nav-item">
-                        <a className="nav-link" href="#" rel="nofollow" target="_blank">
-                            <i className="fab fa-youtube text-light"></i>
-                        </a>
-                    </li>
-                    <li className="nav-item">
-                        <a className="nav-link" href="#" rel="nofollow" target="_blank">
+                        <a className="nav-link" href="https://www.facebook.com/a19delsur/" rel="nofollow" target="_blank">
                             <i className="fab fa-facebook-f text-light"></i>
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#" rel="nofollow" target="_blank">
+                        <a className="nav-link" href="https://twitter.com/alter19delsur" rel="nofollow" target="_blank">
                             <i className="fab fa-twitter text-light"></i>
+                        </a>
+                    </li>
+                    <li className="nav-item">
+                        <a className="nav-link" href="#" rel="nofollow" target="_blank">
+                            <i className="fab fa-youtube text-light"></i>
                         </a>
                     </li>
                 </ul>

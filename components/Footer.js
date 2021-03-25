@@ -13,12 +13,12 @@ const Footer = () => {
                             </a>
                         </Link>
                         <p className="text-white mt-5">Síguenos en nuestras redes sociales</p>
-                        <button type="button" className="btn btn-light mx-1">
+                        <a href="https://www.facebook.com/a19delsur/" target="_blank" className="btn btn-light mx-1">
                             <i className="fab fa-facebook-f align-middle"></i>
-                        </button>
-                        <button type="button" className="btn btn-light mx-1">
+                        </a>
+                        <a href="https://twitter.com/alter19delsur" target="_blank" className="btn btn-light mx-1">
                             <i className="fab fa-twitter align-middle"></i>
-                        </button>
+                        </a>
                         <button type="button" className="btn btn-light mx-1">
                             <i className="fab fa-youtube"></i>
                         </button>
